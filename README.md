@@ -1,7 +1,7 @@
 
-# P3-Refact
+# Projeto de Refatoramento
 
-## Aplicação
+## Aplicações
 | Design Patten  | Aplicação |
 | ------------- | ------------- |
 |Factory |  [FactoryFuncionario.java](https://github.com/hgms00/Projeto-de-Refatoramento/blob/master/src/main/FactoryFuncionario.java) |
