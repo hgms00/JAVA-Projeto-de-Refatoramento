@@ -14,6 +14,6 @@
 
 - Factory : Utilizado na classe FactoryFuncionario e seus extends FactoryHorista,FactorySalariado,FactoryComissionado.
 - Template: Utilizado na função TemplatedoCopy() presente em FactoryFuncionario que dependendo do tipo do funcionário, irá diferenciar no que a funçaõ também presente nas classe de horista,comissionado e salariado, irá fazer.
-- Command : Utilizando em quase todas as classes dentro do pacote "commands".
-- Singleton : Utilizando nas classes MementoOriginator,Memento e Mementocaretaker.
-- Memento : Utilizando nas classes com prefixo Memento dentro do pacote "commands".
+- Command : Utilizado em quase todas as classes dentro do pacote "commands".
+- Singleton : Utilizado nas classes MementoOriginator,Memento e Mementocaretaker.
+- Memento : Utilizado nas classes com prefixo Memento dentro do pacote "commands".
