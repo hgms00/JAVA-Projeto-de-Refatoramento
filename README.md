@@ -4,9 +4,9 @@
 ## Aplicação
 | Design Patten  | Aplicação |
 | ------------- | ------------- |
-|Factory |  [com.factoryPattern.FactoryEmployee.java](https://github.com/mffdsp/P3-Refact/blob/master/Refact/src/com/factoryPattern/FactoryEmployee.java) |
-|Template | [com.draw.Draw](https://github.com/mffdsp/P3-Refact/blob/master/Refact/src/com/draw/Draw.java) |
-|Command | [com.state.State](https://github.com/mffdsp/P3-Refact/blob/master/Refact/src/com/state/State.java)|
-|Singleton |[com.view.DrawView.java](https://github.com/mffdsp/P3-Refact/blob/master/Refact/src/com/view/DrawView.java) |
-|Memento | [com.memento.Memento](https://github.com/mffdsp/P3-Refact/blob/master/Refact/srcFINAL/com/memento/Memento.java) |
+|Factory |  [FactoryFuncionario.java](https://github.com/hgms00/Projeto-de-Refatoramento/blob/master/src/main/FactoryFuncionario.java) |
+|Template | [TemplatedoCopy()](https://github.com/hgms00/Projeto-de-Refatoramento/blob/master/src/main/FactoryFuncionario.java) |
+|Command | [CommandSet.java](https://github.com/hgms00/Projeto-de-Refatoramento/blob/master/src/commands/CommandSet.java)|
+|Singleton |[Singleton.java]( https://github.com/hgms00/Projeto-de-Refatoramento/blob/master/src/commands/Singleton.java) |
+|Memento | [Memento.java](https://github.com/hgms00/Projeto-de-Refatoramento/blob/master/src/commands/Memento.java) |
 ---
