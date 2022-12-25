@@ -1,6 +1,12 @@
 
 # Projeto de Refatoramento
 
+>  Projeto desenvolvido como método avaliativo da disciplina de Projeto de Software
+
+### Ferramentas
+
+Esse projeto foi desenvolvido utilizando a linguagem de programação JAVA e o conceito de orientação a objetos.
+
 ## Aplicações
 | Design Patten  | Aplicação |
 | ------------- | ------------- |
